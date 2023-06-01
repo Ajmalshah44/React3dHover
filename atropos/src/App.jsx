@@ -17,7 +17,7 @@ function App() {
             <img src={front} data-atropos-offset="-1" className="img3" />
           </Atropos>
         </div>
-        <span className="para">~ Mohammed Ajmalsha </span>
+        <span className="para">~ Ajmalsha </span>
       </div>
     </>
   );
