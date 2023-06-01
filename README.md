@@ -2,5 +2,11 @@
 React 3d hover sample design using Atropos 
 
 # Install
-npm install
-npm run dev
+
+* npm
+  ```sh
+  npm install
+  ```  
+  ```sh
+  npm run dev
+  ```
