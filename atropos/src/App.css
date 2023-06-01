@@ -5,24 +5,6 @@
   text-align: center;
 }
 
-.aj-swiper {
-  position: relative;
-}
-.swiper-slide img {
-  max-width: 275px;
-  max-width: auto;
-}
-
-img.frame {
-  position: absolute;
-  max-width: 340px;
-  left: 0;
-  right: 0;
-  top: -25px;
-  margin: auto;
-  z-index: 1;
-}
-
 .bg {
   background-color: #2f358b;
   width: 100%;
