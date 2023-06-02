@@ -5,11 +5,13 @@ import back from "./assets/back-mountain.png";
 import Atropos from "atropos/react";
 import "./App.css";
 import Title from "./Title";
+import Header from "./Header";
 
 function App() {
   return (
     <>
       <div className="bg">
+        <Header />
         <Title />
         <div className="card">
           <Atropos>

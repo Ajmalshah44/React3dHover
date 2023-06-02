@@ -65,3 +65,15 @@ h3 {
   width: 600px;
   margin: 25px auto 0;
 }
+
+.header {
+  color: #fff;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+}
+.header ul li {
+  margin: 0 10px;
+}
