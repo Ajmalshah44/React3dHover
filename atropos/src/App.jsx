@@ -4,12 +4,13 @@ import front from "./assets/front-side.png";
 import back from "./assets/back-mountain.png";
 import Atropos from "atropos/react";
 import "./App.css";
+import Title from "./Title";
 
 function App() {
   return (
     <>
       <div className="bg">
-        <h3>3D Hover Animation</h3>
+        <Title />
         <div className="card">
           <Atropos>
             <img src={backBg} data-atropos-offset="-2" className="img1" />
